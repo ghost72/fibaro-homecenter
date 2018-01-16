@@ -1,0 +1,8 @@
+Type: Scene
+Max. running instances: 2
+Lili turn on command: 
+Lili turn off command: 
+Run scene: Manual
+Scene hidden: false
+Protect by PIN: false
+Do not allow alarm to stop scene while alarm is running: false
